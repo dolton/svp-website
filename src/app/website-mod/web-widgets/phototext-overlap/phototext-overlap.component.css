@@ -1,0 +1,12 @@
+.sv-wb-pto-img {
+  height: 100%;
+  width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+  
+  .sv-wb-pto-img {
+    height: 50%;
+    width: 90%;
+  }
+}

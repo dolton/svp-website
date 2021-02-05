@@ -1,0 +1,26 @@
+<!-- <div class="sv-web-sec"
+    *ngIf="section && section.widget && section.widget.type && section.widget.type.itemValue == 'carousal'">
+    <div class="row">
+        <mat-list class="sv-web-sectitle">
+            <mat-list-item> {{ section.name }} </mat-list-item>
+        </mat-list>
+    </div>
+    <div class="row">
+        <mat-list class="sv-web-secdesc">
+            <mat-list-item> {{ section.text }} </mat-list-item>
+        </mat-list>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <ng-image-slider [images]="imageObject" [imageSize]="{width: '30%', height: '30%'}" [animationSpeed]=5
+                [showArrow]=false [autoSlide]=1 [infinite]=true [slideImage]=2 #nav></ng-image-slider>
+        </div>
+    </div>
+</div> -->
+
+<div *ngIf="section && section['widget'] && section['widget'].type && section['widget'].type.itemValue == 'carousal'">
+    <!-- <ng-image-slider [images]="imageObject" [imageSize]="{width: '100%', height: '90%'}" [animationSpeed]=5
+                [showArrow]=false [autoSlide]=1 [infinite]=true [slideImage]=1 #nav></ng-image-slider> -->
+    <ng-image-slider [images]="imageObject" [imageSize]="{width: '100%', height: '90%'}" [animationSpeed]=5
+        [slideImage]=1  #nav></ng-image-slider>
+</div>

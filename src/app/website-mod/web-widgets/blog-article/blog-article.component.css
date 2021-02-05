@@ -1,0 +1,25 @@
+.sv-web-article-sec-cont {
+  margin: auto;
+  padding: 3rem 1rem;
+  width: 70%;
+}
+
+.sv-web-article-sec-cont .sv-web-article-img {
+  height: 20rem;
+}
+
+.sv-web-article-sec-cont .mat-card {
+  box-shadow: none;
+  margin: auto;
+  padding: 0;
+}
+
+.sv-web-article-sec-cont .sv-web-article-textcont {
+  font-size: 16px;
+  line-height: 1.7rem;
+  text-align: justify;
+}
+
+.sv-web-article-hdcont {
+  font-size: 2rem;
+}

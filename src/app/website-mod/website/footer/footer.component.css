@@ -1,0 +1,39 @@
+.sv-footer-logo {
+  height: 10rem;
+  width: 52%;
+}
+
+.sv-web-footer-det-cont {
+  background-color: #f9f9f9;
+  padding: 4rem;
+}
+
+.sv-web-ft-copyw {
+  color: #666;
+  font-size: 0.775rem;
+  margin-top: 1rem;
+}
+
+.sv-web-ft-soicon {
+  font-size: 1.2rem;
+  margin-right: 1rem;
+}
+
+.sv-web-ft-btmbar {
+  background-color: #e8e8e8;
+}
+
+.sv-web-ft-btmbar .col {
+  margin: auto;
+  text-align: center;
+}
+
+.sv-web-ft-btmbar .icon {
+  color: red;
+  font-size: 1.2rem;
+  margin: 0.8rem 0.5rem;
+}
+
+.sv-web-footer .sv-col{
+  margin-bottom: 1rem;
+}

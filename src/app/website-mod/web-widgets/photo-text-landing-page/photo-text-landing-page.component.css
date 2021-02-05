@@ -1,0 +1,44 @@
+.sv-website-sec {
+  min-height: 100vh;
+}
+
+.sv-wb-pto-img {
+  height: 100%;
+  width: 100%;
+}
+
+.sv-wb-ptlp-card {
+  width: 40%;
+  float: right;
+  margin: -15rem 4rem 0 0;
+  padding: 2rem;
+  color: white;
+  background: transparent;
+  box-shadow: none;
+}
+
+.sv-wb-ptlp-title {
+  font-family: "Great Vibes", cursive;
+  font-size: 4.625rem;
+}
+
+.sv-wb-ptlp-text {
+  margin-top: 3rem;
+  letter-spacing: 0.7px;
+}
+
+@media only screen and (max-width: 600px) {
+  .sv-website-sec {
+    min-height: 70vh;
+  }
+
+  .sv-wb-ptlp-title {
+    font-size: 2rem;
+  }
+
+  .sv-wb-ptlp-card {
+    width: 65%;
+    margin: -27rem 0 0 0;
+    padding: 0rem;
+  }
+}

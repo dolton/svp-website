@@ -1,0 +1,12 @@
+<div class="sv-website-sec" *ngIf="section['widget'].type.itemValue == 'photoTextOverlap'">
+    <div *ngFor="let post of section['postList']">
+        <mat-grid-list cols="1" rowHeight="40rem">
+            <mat-grid-tile>
+                <ng-container>
+                    <img [src]="attachmentObj[post.id] && attachmentObj[post.id].path" alt="Photo of a Shiba Inu"
+                        class="sv-wb-pto-img">
+                </ng-container>
+            </mat-grid-tile>
+        </mat-grid-list>
+    </div>
+</div>

@@ -1,0 +1,5 @@
+<div *ngIf="section['widget'].type.itemValue == 'article'" class="sv-web-sec">
+    <div class="row sv-row sv-wb-wid-art-cont" *ngFor="let post of section['postList']">
+        <quill-view-html [content]="post['text']" theme="snow"></quill-view-html>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+<div class="sv-web-sec-notice-cont" *ngFor="let post of section['postList']">
+    <ng-container>
+        <mat-list role="list">
+            <mat-list-item role="listitem">
+                <h1 matLine> 
+                    <i class="fas fa-exclamation-circle"></i> {{ post['name'] + ' ' + post['desc'] }} 
+                </h1>
+            </mat-list-item>
+        </mat-list>
+    </ng-container>
+</div>

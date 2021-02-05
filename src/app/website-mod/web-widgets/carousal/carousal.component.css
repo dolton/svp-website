@@ -1,0 +1,33 @@
+.sv-web-sec {
+  margin: 3rem 1rem;
+}
+
+.sv-web-sectitle,
+.sv-web-secdesc {
+  margin: auto;
+  padding: 0;
+}
+
+.sv-web-sectitle {
+  border-bottom: 2px solid rgb(4, 4, 4);
+  min-width: 160px;
+  padding: 0 24px;
+  opacity: 0.6;
+}
+
+.sv-web-secdesc {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ng-image-slider
+  .ng-image-slider-container
+  .main
+  .main-inner
+  .img-div
+  .caption {
+  bottom: 5rem;
+  left: 4rem;
+  height: 70%;
+  width: 30%;
+}

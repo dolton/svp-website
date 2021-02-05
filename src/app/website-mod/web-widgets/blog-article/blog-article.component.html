@@ -1,0 +1,21 @@
+<div class="sv-website-bd">
+    <section>
+        <div class="sv-web-sec sv-web-article-sec-cont">
+            <div class="row sv-row sv-web-article-hdcont">
+                <label>{{ post && post['name'] }}</label>
+            </div>
+            <div class="row sv-row">
+                <label>{{ post && post['desc'] }}</label>
+            </div>
+            <div class="row sv-row">
+                <mat-card>
+                    <img mat-card-image class="sv-web-article-img" [src]="attachment && attachment['path']">
+                </mat-card>
+            </div>
+            <div class="row sv-row sv-web-article-textcont">
+                <quill-view-html [content]="post['text']" theme="snow"></quill-view-html>
+            </div>
+        </div>
+    </section>
+    <app-footer></app-footer>
+</div>

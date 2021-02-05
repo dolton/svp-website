@@ -1,0 +1,26 @@
+<div *ngIf="section['widget'].type.itemValue == 'cards'" class="sv-web-sec">
+    <div class="row">
+        <mat-card class="sv-card-no-border">
+            <mat-card-header>
+                <mat-card-title>{{ section['name'] }}</mat-card-title>
+                <mat-card-subtitle>{{ section['text'] }}</mat-card-subtitle>
+            </mat-card-header>
+        </mat-card>
+    </div>
+    <div class="row sv-cardswid-cardscont">
+        <div class="col-lg-4 col-md-4 col-sm-12 sv-cardswid-card" *ngFor="let post of section['postList']">
+            <mat-card>
+                <img mat-card-image [src]="attachmentObj[post.id] && attachmentObj[post.id].path">
+                <mat-card-content>{{ post['name'] }}</mat-card-content>
+                <mat-card-subtitle>
+                    <p>
+                        {{ post.desc }}
+                    </p>
+                </mat-card-subtitle>
+                <mat-card-actions>
+                    <label class="sv-cardswid-act-btn">{{ post['buttonText'] }}</label>
+                </mat-card-actions>
+            </mat-card>
+        </div>
+    </div>
+</div>
