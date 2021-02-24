@@ -1,13 +1,13 @@
 import { Injectable } from '@angular/core';
-import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { Observable, throwError, BehaviorSubject } from 'rxjs';
+import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 
 @Injectable({
   providedIn: 'root'
 })
 export class NavbarService {
 
-  constructor(private _httpClient: HttpClient) { }
+  constructor() { }
 
   private _selectedMenu: BehaviorSubject<any> = new BehaviorSubject(null);
   public selectedMenu$ = this._selectedMenu.asObservable();

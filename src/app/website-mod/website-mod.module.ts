@@ -23,6 +23,7 @@ import { BlogArticleComponent } from './web-widgets/blog-article/blog-article.co
 import { TimelineComponent } from './web-widgets/timeline/timeline.component';
 import { DocumentsListingComponent } from './web-widgets/documents-listing/documents-listing.component';
 import { ArticleComponent } from './web-widgets/article/article.component';
+import { WebsiteRouting } from './website.routing';
 
 
 @NgModule({
@@ -49,7 +50,8 @@ import { ArticleComponent } from './web-widgets/article/article.component';
     CommonModule,
     MaterialModModule,
     QuillModule.forRoot(),
-    NgImageSliderModule
+    NgImageSliderModule,
+    WebsiteRouting 
   ]
 })
 export class WebsiteModModule { }
