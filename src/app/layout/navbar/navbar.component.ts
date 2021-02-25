@@ -1,7 +1,7 @@
-import { Component, OnInit, Output, EventEmitter } from '@angular/core';
-import { NavbarService } from './navbar.service';
+import { Component, OnInit, Output } from '@angular/core';
+import * as EventEmitter from 'events';
 import { Router } from '@angular/router';
-import * as data from './menu.json';
+import * as data from '../../../assets/json/menu/menu.json';
 
 @Component({
   selector: 'app-navbar',
@@ -13,8 +13,7 @@ export class NavbarComponent implements OnInit {
   @Output() public sidenavToggle = new EventEmitter();
 
   constructor(
-    private _router: Router,
-    private _navbarService: NavbarService
+    private _router: Router
   ) { }
 
   menuList: Array<Object> = (data as any).default;
@@ -24,12 +23,7 @@ export class NavbarComponent implements OnInit {
 
   onMenuSelection(menu: Object) {
     if (menu && menu['childrenList'].length == 0) {
-      this.emitSelectedMenu(menu);
+      this._router.navigate([menu['route']]);
     }
-  }
-
-  private emitSelectedMenu(menu: Object) {
-    this._navbarService.selectMenu(menu);
-    this._router.navigate(['/web']);
   }
 }

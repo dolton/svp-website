@@ -7,8 +7,6 @@ import { QuillModule } from 'ngx-quill';
 import { NgImageSliderModule } from 'ng-image-slider';
 
 import { WebsiteComponent } from './website/website.component';
-import { FooterComponent } from './website/footer/footer.component';
-import { NavbarComponent } from './website/navbar/navbar.component';
 import { CarousalComponent } from './web-widgets/carousal/carousal.component';
 import { CardsComponent } from './web-widgets/cards/cards.component';
 import { PhototextLeftphotoComponent } from './web-widgets/phototext-leftphoto/phototext-leftphoto.component';
@@ -24,13 +22,13 @@ import { TimelineComponent } from './web-widgets/timeline/timeline.component';
 import { DocumentsListingComponent } from './web-widgets/documents-listing/documents-listing.component';
 import { ArticleComponent } from './web-widgets/article/article.component';
 import { WebsiteRouting } from './website.routing';
+import { HomeComponent } from './website/pages/home/home.component';
+import { OrganizationComponent } from './website/pages/organization/organization.component';
 
 
 @NgModule({
   declarations: [
     WebsiteComponent,
-    FooterComponent,
-    NavbarComponent,
     CarousalComponent,
     CardsComponent,
     PhototextLeftphotoComponent,
@@ -44,7 +42,9 @@ import { WebsiteRouting } from './website.routing';
     BlogArticleComponent,
     TimelineComponent,
     DocumentsListingComponent,
-    ArticleComponent
+    ArticleComponent,
+    HomeComponent,
+    OrganizationComponent
   ],
   imports: [
     CommonModule,

@@ -1,7 +1,7 @@
 [
   {
     "name": "Home",
-    "route": null,
+    "route": "home",
     "currentState": "Active",
     "icon": null,
     "childrenList": []
