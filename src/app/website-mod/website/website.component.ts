@@ -10,7 +10,6 @@ export class WebsiteComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    console.log("in inti")
   }
 
 }

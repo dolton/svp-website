@@ -1,6 +1,7 @@
 import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 import { NavbarService } from './navbar.service';
 import { Router } from '@angular/router';
+import * as data from './menu.json';
 
 @Component({
   selector: 'app-navbar',
@@ -16,7 +17,7 @@ export class NavbarComponent implements OnInit {
     private _navbarService: NavbarService
   ) { }
 
-  menuList: Array<Object>;
+  menuList: Array<Object> = (data as any).default;
 
   ngOnInit(): void {
   }
