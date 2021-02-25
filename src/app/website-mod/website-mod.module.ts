@@ -24,6 +24,7 @@ import { ArticleComponent } from './web-widgets/article/article.component';
 import { WebsiteRouting } from './website.routing';
 import { HomeComponent } from './website/pages/home/home.component';
 import { OrganizationComponent } from './website/pages/organization/organization.component';
+import { AboutUsComponent } from './website/pages/organization/about-us/about-us.component';
 
 
 @NgModule({
@@ -44,7 +45,8 @@ import { OrganizationComponent } from './website/pages/organization/organization
     DocumentsListingComponent,
     ArticleComponent,
     HomeComponent,
-    OrganizationComponent
+    OrganizationComponent,
+    AboutUsComponent
   ],
   imports: [
     CommonModule,

@@ -14,7 +14,7 @@
     "childrenList": [
       {
         "name": "About",
-        "route": null,
+        "route": "org/about",
         "currentState": "Active",
         "icon": null,
         "childrenList": []

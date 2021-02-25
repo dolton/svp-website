@@ -2,10 +2,12 @@ import { Routes, RouterModule } from '@angular/router';
 import { ModuleWithProviders } from '@angular/core';
 import { WebsiteComponent } from './website/website.component';
 import { HomeComponent } from './website/pages/home/home.component';
+import { AboutUsComponent } from './website/pages/organization/about-us/about-us.component';
 
 export const routes: Routes = [
     { path: '', component: WebsiteComponent },
-    { path: 'home', component: HomeComponent }
+    { path: 'home', component: HomeComponent },
+    { path: 'org/about', component: AboutUsComponent }
 ];
 
 declare module "@angular/core" {
