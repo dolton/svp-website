@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import * as data from '../../../../../assets/json/pages/home/home.json';
 import { DomSanitizer } from '@angular/platform-browser';
+import AOS from 'aos';
 
 @Component({
   selector: 'app-home',
@@ -19,8 +20,8 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
 
-    console.log("in home")
     this.preparePageData();
+    AOS.init();
   }
 
   preparePageData(): void {

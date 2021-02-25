@@ -1,5 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { Router } from '@angular/router';
+import AOS from 'aos';
 
 @Component({
   selector: 'app-phototext-leftphoto',
@@ -16,5 +17,6 @@ export class PhototextLeftphotoComponent implements OnInit {
   @Input() attachmentObj: Object;
 
   ngOnInit(): void {
+    AOS.init();
   }
 }

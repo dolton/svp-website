@@ -2,13 +2,13 @@
     <div *ngFor="let post of section['postList']" class="sv-post-pt-lp-cont">
         <div class="row justify-content-center">
             <div class="sv-col col-lg-5 col-md-5">
-                <mat-card class="sv-post-pt-img-cont">
+                <mat-card class="sv-post-pt-img-cont" data-aos="zoom-in-right" data-aos-duration="1000">
                     <img mat-card-image [src]="attachmentObj[post.id] && attachmentObj[post.id].path"
                         alt="Photo of a Shiba Inu">
                 </mat-card>
             </div>
             <div class="sv-col col-lg-7 col-md-7">
-                <mat-card class="sv-post-pt-textcont">
+                <mat-card class="sv-post-pt-textcont" data-aos="zoom-in-left" data-aos-duration="1000">
                     <mat-card-header>
                         <mat-card-title>{{ post['name'] }}</mat-card-title>
                         <mat-card-subtitle></mat-card-subtitle>
