@@ -2,14 +2,14 @@
     <div class="row">
         <mat-card class="sv-card-no-border">
             <mat-card-header>
-                <mat-card-title>{{ section['name'] }}</mat-card-title>
-                <mat-card-subtitle>{{ section['text'] }}</mat-card-subtitle>
+                <mat-card-title data-aos="fade-up" data-aos-duration="1000">{{ section['name'] }}</mat-card-title>
+                <mat-card-subtitle data-aos="fade-left" data-aos-duration="1000">{{ section['text'] }}</mat-card-subtitle>
             </mat-card-header>
         </mat-card>
     </div>
     <div class="row sv-row sv-web-phg-wid-phcont-row" wmAnimate="bounceIn">
         <div class="col-lg-4 col-md-4 col-sm-12 sv-web-phg-wid-phcont" *ngFor="let post of section['postList']">
-            <mat-card>
+            <mat-card data-aos="flip-up" data-aos-duration="1000">
                 <img mat-card-image [src]="attachmentObj[post.id] && attachmentObj[post.id].path"
                     alt="Photo of a Shiba Inu">
             </mat-card>
