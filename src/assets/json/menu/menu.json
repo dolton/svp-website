@@ -21,7 +21,7 @@
       },
       {
         "name": "Founder",
-        "route": null,
+        "route": "org/founder",
         "currentState": "Active",
         "icon": null,
         "childrenList": []

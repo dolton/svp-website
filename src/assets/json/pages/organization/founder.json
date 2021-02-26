@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "name": "Founder",
+      "text": null,
+      "postList": [
+        {
+          "id": 1001,
+          "name": "",
+          "desc": null,
+          "text": null,
+          "buttonText": null,
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-landingPage"
+        }
+      }
+    },
+    {
+      "name": "About Founder",
+      "text": null,
+      "postList": [
+        {
+          "id": 1002,
+          "name": "Frederic Ozanam",
+          "desc": "Frederic Ozanam was born on April 1813 in Milan, to Jean and Marie Ozanam. He was the fifth child of 14 Children, one of only three to reach adulthood. His family, which was of Jewish origin, had been settled in the region around Lyon, France for many centuries. An ancestor Frederic, Jacques Ozanam (1640 – 1717) was a noted mathematician. ",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-leftPhoto"
+        }
+      }
+    },
+    {
+      "name": "Founder - In his youth",
+      "text": null,
+      "postList": [
+        {
+          "id": 1003,
+          "name": "In his youth",
+          "desc": "In his youth he experienced a period of doubt regarding the Catholic faith, during which he was strongly influenced by one of his teachers at the College de Lyon, the priest Abbe Noirot. While still a student, Frédéric took up journalism and contributed considerably to Bailly's Tribune catholique, which became L'Univers, a French Catholic daily newspaper that adopted a strongly ultramontane position.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-rightPhoto"
+        }
+      }
+    },
+    {
+      "name": "Founder - Education",
+      "text": null,
+      "postList": [
+        {
+          "id": 1004,
+          "name": "Education",
+          "desc": "Ozanam received the degrees of Bachelor of Laws in 1934, Bachelor of Arts in 1835 and Doctor of Laws in 1836. His father, who had wanted him to study law, died on May12, 1837. Although he preferred literature, Frederic worked in the legal profession in order to support his mother, and was admitted to the Bar in Lyon in 1837. Still, he also pursued his personal interest, and in 1839 he obtained the degree of Doctor of Letters",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-leftPhoto"
+        }
+      }
+    },
+    {
+      "name": "Founder -How he started",
+      "text": null,
+      "postList": [
+        {
+          "id": 1005,
+          "name": "How he started",
+          "desc": "Ozanam and his friends revived a discussion group called a \"Society of Good Studies\" and their attentions turned frequently to the social teachings of the Gospel. One voice issued the challenge, \"What is your church doing now? What is she doing for the poor of Paris? Show us your works and we will believe you!\". As a consequence, in May 1833 Frédéric and a group of other young men founded the charitable Society of Saint Vincent de Paul.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-rightPhoto"
+        }
+      }
+    }
+  ],
+  "attachmentData": {
+    "1001": {
+      "path": "https://lh3.googleusercontent.com/ggMoxQODECoE40A4Cfz8A7wmadUEqTRRhwqE_yHm7s0N1zKJosXEFibfN2Tp8yQN7zeJuvv14DZTsXM-kDR7UOgROzR9-5Qs8rqjkUq8iAWdodlGvrDM3UMbahfQDVjxFoxjs67gLQ=w2400"
+    },
+    "1002": {
+      "path": "https://lh3.googleusercontent.com/3fSGVGBnNHiHjVK1NnpZ-av-h-Tr3VcxjESJD1pNxY1IdWY4L4JsmF9bS0dBB133vlvSa-4wgBTVrv8absFBdTsFz2H0HuVcdeAhWuPdNdQHLVj4nyOg2_DuipgPGYkAgqjYInQ-hA=w2400"
+    },
+    "1003": {
+      "path": "https://lh3.googleusercontent.com/reSLLWMCIW9K21cGpN-B-ACzWTsIemkJ4_N2yjb0G58ywXPOY3iCfm6_9CdatGfsIQy_wJp_wOttR4KvI7ybBI9APPtWpp0PUnm4PphR_7kxFtbI5zxhjBmFkcUQ1lsK44WF-tzAWg=w2400"
+    },
+    "1004": {
+      "path": "https://lh3.googleusercontent.com/qzqyDtcduLSMvzOom9BEFt98mz8I8JXMdBt2-Sf2CGo-DdyLgjhINRJSLMFUWc_NP06KoKnm8DnMGVELBdr1qxuo8Wkjhls_nkwnl-UL7NSNpNBjo4Es28wFI9jJUFh8Kvt0Dc_rwA=w2400"
+    },
+    "1005": {
+      "path": "https://lh3.googleusercontent.com/6dF1hPJnoTyW42BsTUCIx1Ojtf_dhPcLsiNVU45OtvmRwvzmZX6nwwGABOqVchiUn7OkOzDor4MW8LNhAGSQsZP_qoUkoNorBM1Cfgx25PlPF9UDtJNDUQcdYSKubemZICNQsMJQgQ=w2400"
+    }
+  }
+}
