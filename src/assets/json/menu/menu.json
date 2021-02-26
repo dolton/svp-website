@@ -28,14 +28,14 @@
       },
       {
         "name": "Patron",
-        "route": null,
+        "route": "org/patron",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
       },
       {
         "name": "Spirit of the Society",
-        "route": null,
+        "route": "org/spirit",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
