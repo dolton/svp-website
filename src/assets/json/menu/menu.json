@@ -42,7 +42,7 @@
       },
       {
         "name": "Aggregation & Institution",
-        "route": null,
+        "route": "org/aggregation",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
@@ -57,21 +57,21 @@
     "childrenList": [
       {
         "name": "Twinning",
-        "route": null,
+        "route": "act/twinning",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
       },
       {
         "name": "Scholarship",
-        "route": null,
+        "route": "act/scholarship",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
       },
       {
         "name": "Projects",
-        "route": null,
+        "route": "act/projects",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
@@ -86,14 +86,14 @@
     "childrenList": [
       {
         "name": "Central Council",
-        "route": null,
+        "route": "council/central",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
       },
       {
         "name": "Area Councils",
-        "route": null,
+        "route": "council/area",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
@@ -106,28 +106,28 @@
         "childrenList": [
           {
             "name": "North Vasai",
-            "route": null,
+            "route": "council/conf/north",
             "currentState": "Active",
             "icon": null,
             "childrenList": []
           },
           {
             "name": "East Vasai",
-            "route": null,
+            "route": "council/conf/east",
             "currentState": "Active",
             "icon": null,
             "childrenList": []
           },
           {
             "name": "South Vasai",
-            "route": null,
+            "route": "council/conf/south",
             "currentState": "Active",
             "icon": null,
             "childrenList": []
           },
           {
             "name": "Mission Vasai",
-            "route": null,
+            "route": "council/conf/mission",
             "currentState": "Active",
             "icon": null,
             "childrenList": []
@@ -144,28 +144,28 @@
     "childrenList": [
       {
         "name": "Central Council",
-        "route": null,
+        "route": "news/central",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
       },
       {
         "name": "National Council",
-        "route": null,
+        "route": "news/national",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
       },
       {
         "name": "International",
-        "route": null,
+        "route": "news/international",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
       },
       {
         "name": "Reach Out",
-        "route": null,
+        "route": "news/reachout",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
@@ -180,14 +180,14 @@
     "childrenList": [
       {
         "name": "Forms",
-        "route": null,
+        "route": "catalogue/forms",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
       },
       {
         "name": "Reports",
-        "route": null,
+        "route": "catalogue/reports",
         "currentState": "Active",
         "icon": null,
         "childrenList": []
