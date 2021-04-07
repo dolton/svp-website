@@ -26,11 +26,6 @@ export class AboutUsComponent implements OnInit {
 
     this.sectionList = this.jsonData['data'];
     this.attachmentObj = this.jsonData['attachmentData'];
-
-    const keys = Object.keys(this.attachmentObj)
-    for (const key of keys) {
-      this.attachmentObj[key].path = this._sanitizer.bypassSecurityTrustUrl(this.attachmentObj[key].path);
-    }
   }
 
 }
