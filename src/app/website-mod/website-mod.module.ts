@@ -28,7 +28,6 @@ import { AboutUsComponent } from './website/pages/organization/about-us/about-us
 import { FounderComponent } from './website/pages/organization/founder/founder.component';
 import { PatronComponent } from './website/pages/organization/patron/patron.component';
 import { SpiritSocietyComponent } from './website/pages/organization/spirit-society/spirit-society.component';
-import { AggInstitutionComponent } from './website/pages/organization/agg-institution/agg-institution.component';
 import { ActivitiesComponent } from './website/pages/activities/activities.component';
 import { TwinningComponent } from './website/pages/activities/twinning/twinning.component';
 import { ScholarshipComponent } from './website/pages/activities/scholarship/scholarship.component';
@@ -49,6 +48,7 @@ import { ReachoutComponent } from './website/pages/news-events/reachout/reachout
 import { CatalogueComponent } from './website/pages/catalogue/catalogue.component';
 import { FormsComponent } from './website/pages/catalogue/forms/forms.component';
 import { ReportsComponent } from './website/pages/catalogue/reports/reports.component';
+import { GetInvolvedComponent } from './website/pages/organization/get-involved/get-involved.component';
 
 
 @NgModule({
@@ -74,7 +74,6 @@ import { ReportsComponent } from './website/pages/catalogue/reports/reports.comp
     FounderComponent,
     PatronComponent,
     SpiritSocietyComponent,
-    AggInstitutionComponent,
     ActivitiesComponent,
     TwinningComponent,
     ScholarshipComponent,
@@ -94,7 +93,8 @@ import { ReportsComponent } from './website/pages/catalogue/reports/reports.comp
     ReachoutComponent,
     CatalogueComponent,
     FormsComponent,
-    ReportsComponent
+    ReportsComponent,
+    GetInvolvedComponent
   ],
   imports: [
     CommonModule,

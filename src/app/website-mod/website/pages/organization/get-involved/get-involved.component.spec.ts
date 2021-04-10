@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { AggInstitutionComponent } from './agg-institution.component';
+import { GetInvolvedComponent } from './get-involved.component';
 
-describe('AggInstitutionComponent', () => {
-  let component: AggInstitutionComponent;
-  let fixture: ComponentFixture<AggInstitutionComponent>;
+describe('GetInvolvedComponent', () => {
+  let component: GetInvolvedComponent;
+  let fixture: ComponentFixture<GetInvolvedComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ AggInstitutionComponent ]
+      declarations: [ GetInvolvedComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(AggInstitutionComponent);
+    fixture = TestBed.createComponent(GetInvolvedComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

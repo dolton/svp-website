@@ -41,8 +41,8 @@
         "childrenList": []
       },
       {
-        "name": "Aggregation & Institution",
-        "route": "org/aggregation",
+        "name": "Get Involved",
+        "route": "org/get-involved",
         "currentState": "Active",
         "icon": null,
         "childrenList": []

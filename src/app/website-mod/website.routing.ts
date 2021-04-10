@@ -6,7 +6,6 @@ import { AboutUsComponent } from './website/pages/organization/about-us/about-us
 import { FounderComponent } from './website/pages/organization/founder/founder.component';
 import { PatronComponent } from './website/pages/organization/patron/patron.component';
 import { SpiritSocietyComponent } from './website/pages/organization/spirit-society/spirit-society.component';
-import { AggInstitutionComponent } from './website/pages/organization/agg-institution/agg-institution.component';
 import { TwinningComponent } from './website/pages/activities/twinning/twinning.component';
 import { ScholarshipComponent } from './website/pages/activities/scholarship/scholarship.component';
 import { ProjectsComponent } from './website/pages/activities/projects/projects.component';
@@ -23,6 +22,7 @@ import { InternationalCouncilComponent } from './website/pages/news-events/inter
 import { ReachoutComponent } from './website/pages/news-events/reachout/reachout.component';
 import { FormsComponent } from './website/pages/catalogue/forms/forms.component';
 import { ReportsComponent } from './website/pages/catalogue/reports/reports.component';
+import { GetInvolvedComponent } from './website/pages/organization/get-involved/get-involved.component';
 
 export const routes: Routes = [
     { path: '', component: WebsiteComponent },
@@ -31,7 +31,7 @@ export const routes: Routes = [
     { path: 'org/founder', component: FounderComponent },
     { path: 'org/patron', component: PatronComponent },
     { path: 'org/spirit', component: SpiritSocietyComponent },
-    { path: 'org/aggregation', component: AggInstitutionComponent },
+    { path: 'org/get-involved', component: GetInvolvedComponent },
     { path: 'act/twinning', component: TwinningComponent },
     { path: 'act/scholarship', component: ScholarshipComponent },
     { path: 'act/projects', component: ProjectsComponent },
