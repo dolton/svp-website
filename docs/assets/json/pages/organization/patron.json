@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "name": "Our Patron",
+      "text": null,
+      "postList": [
+        {
+          "id": 1001,
+          "name": ""
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-landingPage"
+        }
+      }
+    },
+    {
+      "name": "vincent person info",
+      "text": null,
+      "postList": [
+        {
+          "id": 1002,
+          "name": "St. Vincent de Paul",
+          "desc": "Vincent de paul was born in the small southern French town of Pouy (later renamed St. Vincent De Paul in his honour) on 24th April 1581 and ordained as a priest in 1600 at the age of 19. As a young man he ministered to the wealthy and powerful. However an appointment as chaplain to a poor parish, and to galley prisoners, inspired him to a vocation of working with those most marginalised and powerless.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-leftPhoto"
+        }
+      }
+    },
+    {
+      "name": "About his life",
+      "text": null,
+      "postList": [
+        {
+          "id": 1003,
+          "name": "About his life",
+          "desc": "Vincent urged his followers to bring God’s justice and love to people who were unable to live a full human life. Deal with the most urgent needs. Organize charity so that it is more efficient, teach reading and writing, educate with the aim of giving each the means of self support. Vincent de Paul died in Paris on 27th September 1660 at the age of 79 and was canonised on 16th June 1737 and, in 1883, the church designated him as the special patron of all charitable associations.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-rightPhoto"
+        }
+      }
+    }
+  ],
+  "attachmentData": {
+    "1001": {
+      "path": "../../../../assets/images/organization/patron/patron-lp.jpg"
+    },
+    "1002": {
+      "path": "../../../../assets/images/organization/patron/vincent-depaul.jpg"
+    },
+    "1003": {
+      "path": "../../../../assets/images/organization/patron/about-vincent.jpg"
+    }
+  }
+}

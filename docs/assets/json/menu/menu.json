@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Home",
+    "route": "home",
+    "currentState": "Active",
+    "icon": null,
+    "childrenList": []
+  },
+  {
+    "name": "Organization",
+    "route": null,
+    "currentState": "Active",
+    "icon": null,
+    "childrenList": [
+      {
+        "name": "About",
+        "route": "org/about",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "Founder",
+        "route": "org/founder",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "Patron",
+        "route": "org/patron",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "Spirit of the Society",
+        "route": "org/spirit",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "Get Involved",
+        "route": "org/get-involved",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      }
+    ]
+  },
+  {
+    "name": "Activities",
+    "route": null,
+    "currentState": "Active",
+    "icon": null,
+    "childrenList": [
+      {
+        "name": "Twinning",
+        "route": "act/twinning",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "Scholarship",
+        "route": "act/scholarship",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "Projects",
+        "route": "act/projects",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      }
+    ]
+  },
+  {
+    "name": "Council",
+    "route": null,
+    "currentState": "Active",
+    "icon": null,
+    "childrenList": [
+      {
+        "name": "Central Council",
+        "route": "council/central",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "Area Councils",
+        "route": "council/area",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "Conferences",
+        "route": null,
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": [
+          {
+            "name": "North Vasai",
+            "route": "council/conf/north",
+            "currentState": "Active",
+            "icon": null,
+            "childrenList": []
+          },
+          {
+            "name": "East Vasai",
+            "route": "council/conf/east",
+            "currentState": "Active",
+            "icon": null,
+            "childrenList": []
+          },
+          {
+            "name": "South Vasai",
+            "route": "council/conf/south",
+            "currentState": "Active",
+            "icon": null,
+            "childrenList": []
+          },
+          {
+            "name": "Mission Vasai",
+            "route": "council/conf/mission",
+            "currentState": "Active",
+            "icon": null,
+            "childrenList": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "News and Events",
+    "route": null,
+    "currentState": "Active",
+    "icon": null,
+    "childrenList": [
+      {
+        "name": "Central Council",
+        "route": "news/central",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "National Council",
+        "route": "news/national",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "International",
+        "route": "news/international",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "Reach Out",
+        "route": "news/reachout",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      }
+    ]
+  },
+  {
+    "name": "Catalogue",
+    "route": null,
+    "currentState": "Active",
+    "icon": null,
+    "childrenList": [
+      {
+        "name": "Forms",
+        "route": "catalogue/forms",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      },
+      {
+        "name": "Reports",
+        "route": "catalogue/reports",
+        "currentState": "Active",
+        "icon": null,
+        "childrenList": []
+      }
+    ]
+  }
+]

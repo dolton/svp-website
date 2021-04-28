@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "name": "spirit-society-landing",
+      "text": null,
+      "postList": [
+        {
+          "id": 1001,
+          "name": "Spirit of the society",
+          "desc": null,
+          "text": null,
+          "buttonText": null,
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-landingPage"
+        }
+      }
+    },
+    {
+      "name": "we-are-united",
+      "text": null,
+      "postList": [
+        {
+          "id": 1002,
+          "name": "We are united",
+          "desc": "We the vincentians are united in an international society of charity by their spirit of poverty, humility and sharing. Inspired by Gospel values, the society of St. Vincent de Paul, a Catholic Lay organization, leads women and men to join together to grow spiritually by offering person to person service to those who are needy and suffering in the tradition of its founder, blessed Frederic Ozanam and patron St. Vincent de Paul.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-leftPhoto"
+        }
+      }
+    },
+    {
+      "name": "we-are-a-family",
+      "text": null,
+      "postList": [
+        {
+          "id": 1003,
+          "name": "We are a family",
+          "desc": "We the vincentians are a reflection of the whole family of God, members, who are drawn from every ethnic and cultural background, age group, and economic level. Vincentians are united in an international society of charity by their spirit of poverty, humility and sharing, which is nourished by prayer and reflection, mutually supportive gatherings and adherence to a basic Rule.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-rightPhoto"
+        }
+      }
+    },
+    {
+      "name": "we-are-everywhere",
+      "text": null,
+      "postList": [
+        {
+          "id": 1004,
+          "name": "We are everywhere",
+          "desc": "We the vincentians reach the length and breadth of the globe and try to bring light the the life of those in darkness and in need. Vincentians witness God’s love by embracing all works of charity and justice. The society collaborates with other people of good will in relieving need and addressing its causes, making no distinction in those served because, in them, Vincentians see the face of Christ.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-leftPhoto"
+        }
+      }
+    }
+  ],
+  "attachmentData": {
+    "1001": {
+      "path": "../../../../assets/images/organization/spirit/sea-man-spirit.jpg"
+    },
+    "1002": {
+      "path": "../../../../assets/images/organization/spirit/we-are-united.jpg"
+    },
+    "1003": {
+      "path": "../../../../assets/images/organization/spirit/we-are-family.jpg"
+    },
+    "1004": {
+      "path": "../../../../assets/images/organization/spirit/we-are-everywhere.jpg"
+    }
+  }
+}

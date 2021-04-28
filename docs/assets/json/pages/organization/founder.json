@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "name": "Founder",
+      "text": null,
+      "postList": [
+        {
+          "id": 1001,
+          "name": "",
+          "desc": null,
+          "text": null,
+          "buttonText": null,
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-landingPage"
+        }
+      }
+    },
+    {
+      "name": "About Founder",
+      "text": null,
+      "postList": [
+        {
+          "id": 1002,
+          "name": "Frederic Ozanam",
+          "desc": "Frederic Ozanam was born on April 1813 in Milan, to Jean and Marie Ozanam. He was the fifth child of 14 Children, one of only three to reach adulthood. His family, which was of Jewish origin, had been settled in the region around Lyon, France for many centuries. An ancestor Frederic, Jacques Ozanam (1640 – 1717) was a noted mathematician. ",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-leftPhoto"
+        }
+      }
+    },
+    {
+      "name": "Founder - In his youth",
+      "text": null,
+      "postList": [
+        {
+          "id": 1003,
+          "name": "In his youth",
+          "desc": "In his youth he experienced a period of doubt regarding the Catholic faith, during which he was strongly influenced by one of his teachers at the College de Lyon, the priest Abbe Noirot. While still a student, Frédéric took up journalism and contributed considerably to Bailly's Tribune catholique, which became L'Univers, a French Catholic daily newspaper that adopted a strongly ultramontane position.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-rightPhoto"
+        }
+      }
+    },
+    {
+      "name": "Founder - Education",
+      "text": null,
+      "postList": [
+        {
+          "id": 1004,
+          "name": "Education",
+          "desc": "Ozanam received the degrees of Bachelor of Laws in 1934, Bachelor of Arts in 1835 and Doctor of Laws in 1836. His father, who had wanted him to study law, died on May12, 1837. Although he preferred literature, Frederic worked in the legal profession in order to support his mother, and was admitted to the Bar in Lyon in 1837. Still, he also pursued his personal interest, and in 1839 he obtained the degree of Doctor of Letters",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-leftPhoto"
+        }
+      }
+    },
+    {
+      "name": "Founder -How he started",
+      "text": null,
+      "postList": [
+        {
+          "id": 1005,
+          "name": "How he started",
+          "desc": "Ozanam and his friends revived a discussion group called a \"Society of Good Studies\" and their attentions turned frequently to the social teachings of the Gospel. One voice issued the challenge, \"What is your church doing now? What is she doing for the poor of Paris? Show us your works and we will believe you!\". As a consequence, in May 1833 Frédéric and a group of other young men founded the charitable Society of Saint Vincent de Paul.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-rightPhoto"
+        }
+      }
+    }
+  ],
+  "attachmentData": {
+    "1001": {
+      "path": "../../../../assets/images/organization/founder/founder.jpg"
+    },
+    "1002": {
+      "path": "../../../../assets/images/organization/founder/frederic-ozanam.jpg"
+    },
+    "1003": {
+      "path": "../../../../assets/images/organization/founder/in-his-youth.jpg"
+    },
+    "1004": {
+      "path": "../../../../assets/images/organization/founder/education.jpg"
+    },
+    "1005": {
+      "path": "../../../../assets/images/organization/founder/how-he-started.jpg"
+    }
+  }
+}
