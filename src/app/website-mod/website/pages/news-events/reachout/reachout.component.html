@@ -1,1 +1,55 @@
-<p>reachout works!</p>
+<div class="sv-website-bd">
+    <section *ngFor="let section of sectionList; let parentIdx = index" [class.odd]="(parentIdx % 2) != 0">
+        <app-photo-text-landing-page [section]="section" [attachmentObj]="attachmentObj"></app-photo-text-landing-page>
+    </section>
+    <section>
+        <div class="row sv-cardswid-cardscont">
+            <div class="col-lg-4 col-md-4 col-sm-12 sv-cardswid-card">
+                <mat-card data-aos="fade-right" data-aos-duration="1000">
+                    <img mat-card-image [src]="attachmentObj[1003] && attachmentObj[1003].path">
+                    <mat-card-content>Bulletin | September 2021</mat-card-content>
+                    <mat-card-subtitle>
+                        <p>
+                            Quarterly Bulletin for the month of September 2021. It includes glimpses of the work done by
+                            the society during the period of July - September 2021.
+                        </p>
+                    </mat-card-subtitle>
+                    <mat-card-actions>
+                        <a class="sv-cardswid-act-btn" href="../../../../../../assets/bulletin/Bulletin_Sep2021.pdf"
+                            target="_blank" role="button" download>Download</a>
+                    </mat-card-actions>
+                </mat-card>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 sv-cardswid-card">
+                <mat-card data-aos="fade-up" data-aos-duration="1000">
+                    <img mat-card-image [src]="attachmentObj[1002] && attachmentObj[1002].path">
+                    <mat-card-content>Bulletin | December 2021</mat-card-content>
+                    <mat-card-subtitle>
+                        <p>
+                            Quarterly Bulletin which will be published for the month of December 2021. Please share your
+                            work to be included in the bulletin.
+                        </p>
+                    </mat-card-subtitle>
+                    <mat-card-actions>
+                        <a class="sv-cardswid-act-btn" role="button" download>Download</a>
+                    </mat-card-actions>
+                </mat-card>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 sv-cardswid-card">
+                <mat-card data-aos="fade-left" data-aos-duration="1000">
+                    <img mat-card-image [src]="attachmentObj[1004] && attachmentObj[1004].path">
+                    <mat-card-content>Bulletin | March 2022</mat-card-content>
+                    <mat-card-subtitle>
+                        <p>
+                            Quarterly Bulletin which will be published for the month of March 2022. Please share your
+                            work to be included in the bulletin.
+                        </p>
+                    </mat-card-subtitle>
+                    <mat-card-actions>
+                        <a class="sv-cardswid-act-btn" role="button" download>Download</a>
+                    </mat-card-actions>
+                </mat-card>
+            </div>
+        </div>
+    </section>
+</div>

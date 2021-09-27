@@ -44,7 +44,7 @@ export const routes: Routes = [
     { path: 'news/central', component: CentralCouncilNewsComponent },
     { path: 'news/national', component: NationalCouncilComponent },
     { path: 'news/international', component: InternationalCouncilComponent },
-    { path: 'news/reachout', component: ReachoutComponent },
+    { path: 'news/bulletin', component: ReachoutComponent },
     { path: 'catalogue/forms', component: FormsComponent },
     { path: 'catalogue/reports', component: ReportsComponent }
 ];

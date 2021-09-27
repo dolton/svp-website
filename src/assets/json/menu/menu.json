@@ -164,8 +164,8 @@
         "childrenList": []
       },
       {
-        "name": "Reach Out",
-        "route": "news/reachout",
+        "name": "Bulletin",
+        "route": "news/bulletin",
         "currentState": "Active",
         "icon": null,
         "childrenList": []

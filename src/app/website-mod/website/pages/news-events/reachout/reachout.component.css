@@ -1,0 +1,43 @@
+.sv-cardswid-cardscont {
+  padding: 6rem 4rem;
+}
+
+.sv-cardswid-card {
+  padding: 1rem 2rem;
+}
+
+.sv-web-sec {
+  margin: 3rem 1rem;
+}
+
+.sv-card-no-border {
+  border: none;
+  box-shadow: none;
+  margin: auto;
+  text-align: center;
+}
+
+.sv-card-no-border .mat-card-title {
+  font-size: 24px;
+  margin-bottom: 1.3rem;
+}
+
+.sv-card-no-border .mat-card-subtitle {
+  font-size: 17px;
+}
+
+.sv-cardswid-act-btn {
+  color: #007bff;
+  margin-left: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.sv-cardswid-act-btn:hover {
+  color: #0056b3;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.sv-cardswid-cardscont .mat-card-actions {
+  margin-bottom: 1rem;
+}
