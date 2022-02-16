@@ -1,0 +1,313 @@
+{
+  "data": [
+    {
+      "name": "South Vasai Conferences",
+      "text": null,
+      "postList": [
+        {
+          "id": 1001,
+          "name": "South Vasai Conferences",
+          "desc": null,
+          "text": null,
+          "buttonText": null,
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-landingPage"
+        }
+      }
+    },
+    {
+      "name": "",
+      "text": null,
+      "postList": [
+        {
+          "id": 1002,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Manikpur conference is based in the manikpur village which is located in vasai west. If there are any issues or queries or requests from the manikpur area, please get in touch with the members.",
+          "header": "St. Michael's Church",
+          "sub-header": "Manikpur Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Stany D'mello",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9860293818",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1003,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Chulne conference is based in the chulne village which is located in vasai west. If there are any issues or queries or requests from the chulne area, please get in touch with the members.",
+          "header": "Our Lady of Fatima",
+          "sub-header": "Chulne Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Leo D'costa",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9323459875",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1004,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Barampur conference is based in the barampur village which is located in vasai west. If there are any issues or queries or requests from the barampur area, please get in touch with the members.",
+          "header": "St. Gonsalo Garcia Church",
+          "sub-header": "Barampur Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Claud Mendonca",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9820096745",
+              "buttonUrl": null
+            }
+          ]
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "cards"
+        }
+      }
+    },
+    {
+      "name": "",
+      "text": null,
+      "postList": [
+        {
+          "id": 1005,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Sandor conference is based in the sandor village which is located in vasai west. If there are any issues or queries or requests from the sandor area, please get in touch with the members.",
+          "header": "St. Thomas Church",
+          "sub-header": "Sandor Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Necton Lemos",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 7798257409",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1006,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Giriz conference is based in the giriz village which is located in vasai west. If there are any issues or queries or requests from the giriz area, please get in touch with the members.",
+          "header": "Our Lady of Grace Church",
+          "sub-header": "Giriz Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Sr. Manvel Dabre",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9923157980",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1007,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Merces conference is based in the merces village which is located in vasai west. If there are any issues or queries or requests from the merces area, please get in touch with the members.",
+          "header": "Our Lady of Mercy Church",
+          "sub-header": "Merces Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Robert Coelho",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9403810859",
+              "buttonUrl": null
+            }
+          ]
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "cards"
+        }
+      }
+    },
+    {
+      "name": "",
+      "text": null,
+      "postList": [
+        {
+          "id": 1008,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Remedy conference is based in the remedy village which is located in vasai west. If there are any issues or queries or requests from the remedy area, please get in touch with the members.",
+          "header": "Our Lady of Remedies",
+          "sub-header": "Remedy Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Morgan D'mello",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9823039241",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1009,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Koliwada conference is based in the koliwada village which is located in vasai west. If there are any issues or queries or requests from the koliwada area, please get in touch with the members.",
+          "header": "St. Peters Church",
+          "sub-header": "Koliwada Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Sr. Vandana Pawkar",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9765926305",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1010,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Papdy conference is based in the papdy village which is located in vasai west. If there are any issues or queries or requests from the papdy area, please get in touch with the members.",
+          "header": "Our Lady of Grace Church",
+          "sub-header": "Papdy Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Sr. Delcy Falcao",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9768118847",
+              "buttonUrl": null
+            }
+          ]
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "cards"
+        }
+      }
+    },
+    {
+      "name": "",
+      "text": null,
+      "postList": [
+        {
+          "id": 1011,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Mulgaon conference is based in the mulgaon village which is located in vasai west. If there are any issues or queries or requests from the mulgaon area, please get in touch with the members.",
+          "header": "St. Mary Magdalene Church",
+          "sub-header": "Mulgaon Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Sr. Voilet Pereira",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9850747215",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1012,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Palle conference is based in the palle village which is located in vasai west. If there are any issues or queries or requests from the palle area, please get in touch with the members.",
+          "header": "Mother Of God Church",
+          "sub-header": "Palle Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Sebastian Bawkar",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9765640936",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1013,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Umele conference is based in the umele village which is located in vasai west. If there are any issues or queries or requests from the umele area, please get in touch with the members.",
+          "header": "Nirmala Mata Church",
+          "sub-header": "Umele Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Sr. Mary Cerejo",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9209976104",
+              "buttonUrl": null
+            }
+          ]
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "cards"
+        }
+      }
+    }
+  ],
+  "attachmentData": {
+    "1001": {
+      "path": "../../../../assets/images/organization/get-involved/give-time.jpg"
+    },
+    "1002": {
+      "path": "../../../../assets/images/council/conferences/svac/manikpur.jpg"
+    },
+    "1003": {
+      "path": "../../../../assets/images/council/conferences/svac/chulne.jpg"
+    },
+    "1004": {
+      "path": "../../../../assets/images/council/conferences/svac/barampur.jpg"
+    },
+    "1005": {
+      "path": "../../../../assets/images/council/conferences/svac/sandor.jpg"
+    },
+    "1006": {
+      "path": "../../../../assets/images/council/conferences/svac/giriz.jpg"
+    },
+    "1007": {
+      "path": "../../../../assets/images/council/conferences/svac/merces.jpg"
+    },
+    "1008": {
+      "path": "../../../../assets/images/council/conferences/svac/remedy.jpg"
+    },
+    "1009": {
+      "path": "../../../../assets/images/council/conferences/svac/koliwada.jpg"
+    },
+    "1010": {
+      "path": "../../../../assets/images/council/conferences/svac/papdy.jpg"
+    },
+    "1011": {
+      "path": "../../../../assets/images/council/conferences/svac/mulgaon.jpg"
+    },
+    "1012": {
+      "path": "../../../../assets/images/council/conferences/svac/palle.jpg"
+    },
+    "1013": {
+      "path": "../../../../assets/images/council/conferences/svac/umele.jpg"
+    }
+
+  }
+}
