@@ -10,15 +10,19 @@
     <div class="row sv-cardswid-cardscont">
         <div class="col-lg-4 col-md-4 col-sm-12 sv-cardswid-card" *ngFor="let post of section['postList']">
             <mat-card>
-                <img mat-card-image [src]="attachmentObj[post.id] && attachmentObj[post.id].path">
-                <mat-card-content>{{ post['name'] }}</mat-card-content>
-                <mat-card-subtitle>
+                <mat-card-header data-aos="fade-left" data-aos-duration="1000">
+                    <mat-card-title>{{ post['header'] }}</mat-card-title>
+                    <mat-card-subtitle>{{ post['sub-header'] }}</mat-card-subtitle>
+                </mat-card-header>
+                <img mat-card-image [src]="attachmentObj[post.id] && attachmentObj[post.id].path" data-aos="fade-up" data-aos-duration="1000">
+                <mat-card-content data-aos="fade-right" data-aos-duration="1000">{{ post['name'] }}</mat-card-content>
+                <mat-card-subtitle data-aos="fade-down" data-aos-duration="1000">
                     <p>
                         {{ post.desc }}
                     </p>
                 </mat-card-subtitle>
-                <mat-card-actions>
-                    <label class="sv-cardswid-act-btn">{{ post['buttonText'] }}</label>
+                <mat-card-actions data-aos="flip-up" data-aos-duration="1000">
+                    <label *ngFor="let button of post['buttons']" class="sv-cardswid-act-btn">{{ button['buttonText'] }}</label>
                 </mat-card-actions>
             </mat-card>
         </div>

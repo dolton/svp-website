@@ -8,13 +8,14 @@
 }
 
 .sv-wb-ptlp-card {
-  width: 40%;
+  width: 50%;
   float: right;
   margin: -18rem 4rem 0 0;
   padding: 2rem;
   color: white;
   background: transparent;
   box-shadow: none;
+  text-align: right;
 }
 
 .sv-wb-ptlp-title {

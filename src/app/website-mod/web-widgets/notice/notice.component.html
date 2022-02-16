@@ -1,11 +1,8 @@
 <div class="sv-web-sec-notice-cont" *ngFor="let post of section['postList']">
-    <ng-container>
-        <mat-list role="list">
-            <mat-list-item role="listitem">
-                <h1 matLine> 
-                    <i class="fas fa-exclamation-circle"></i> {{ post['name'] + ' ' + post['desc'] }} 
-                </h1>
-            </mat-list-item>
-        </mat-list>
-    </ng-container>
+    <div class="jumbotron jumbotron-fluid" data-aos="zoom-in-right" data-aos-duration="1000">
+        <div class="container">
+            <h1 class="display-4">{{ post['name'] }}</h1>
+            <p>{{ post['desc'] }}</p>
+        </div>
+    </div>
 </div>
