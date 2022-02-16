@@ -49,6 +49,7 @@ import { CatalogueComponent } from './website/pages/catalogue/catalogue.componen
 import { FormsComponent } from './website/pages/catalogue/forms/forms.component';
 import { ReportsComponent } from './website/pages/catalogue/reports/reports.component';
 import { GetInvolvedComponent } from './website/pages/organization/get-involved/get-involved.component';
+import { ListViewComponent } from './web-widgets/list-view/list-view.component';
 
 
 @NgModule({
@@ -94,7 +95,8 @@ import { GetInvolvedComponent } from './website/pages/organization/get-involved/
     CatalogueComponent,
     FormsComponent,
     ReportsComponent,
-    GetInvolvedComponent
+    GetInvolvedComponent,
+    ListViewComponent
   ],
   imports: [
     CommonModule,

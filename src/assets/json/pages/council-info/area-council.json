@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "name": "Area Council Members",
+      "text": null,
+      "postList": [
+        {
+          "id": 1001,
+          "name": "Area Councils",
+          "desc": null,
+          "text": null,
+          "buttonText": null,
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-landingPage"
+        }
+      }
+    },
+    {
+      "name": "Members list",
+      "text": "South Vasai Area Council",
+      "description": "List of all the members of South Vasai Area Council. Get in touch with them for any inquiries if it falls under the perview of south vasai.",
+      "postList": [
+        {
+          "id": 1020,
+          "name": "Name",
+          "designation": "Designation",
+          "contactno": "Contact Number",
+          "isHeader": true
+        },
+        {
+          "id": 1002,
+          "name": "Rev. Fr. Thomas D'souza",
+          "designation": "Spiritual Advisor, Nandakhal",
+          "contactno": "9422687303"
+        },
+        {
+          "id": 1003,
+          "name": "Br. Leslie D'silva",
+          "designation": "President",
+          "contactno": "9881746518"
+        },
+        {
+          "id": 1004,
+          "name": "Sr. Veronica Rebello",
+          "designation": "Assistant President",
+          "contactno": "9767885514"
+        },
+        {
+          "id": 1004,
+          "name": "Br. Sebastian Bavkar",
+          "designation": "Assistant President",
+          "contactno": "9765640936"
+        },
+        {
+          "id": 1005,
+          "name": "Sr. Delcy Falcao",
+          "designation": "Treasurer",
+          "contactno": "9730414433"
+        },
+        {
+          "id": 1006,
+          "name": "Sr. Calet Dias",
+          "designation": "Secretary",
+          "contactno": "9923156764"
+        },
+        {
+          "id": 1007,
+          "name": "Br. Errol Dawson",
+          "designation": "Project Officer",
+          "contactno": "9665316976"
+        },
+        {
+          "id": 1008,
+          "name": "Sr. Alma Pereira",
+          "designation": "Youth Representative",
+          "contactno": "7774010407"
+        },
+        {
+          "id": 1009,
+          "name": "Br. Dolton D'silva",
+          "designation": "Youth Representative",
+          "contactno": "9175083847"
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "list-view"
+        }
+      }
+    }
+  ],
+  "attachmentData": {
+    "1001": {
+      "path": "../../../../assets/images/organization/get-involved/give-time.jpg"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+<div *ngIf="section['widget'].type.itemValue == 'list-view'" class="sv-web-sec">
+    <div class="jumbotron jumbotron-fluid" data-aos="zoom-in-right" data-aos-duration="1000">
+        <div class="container">
+            <h1 class="display-4">{{ section['text'] }}</h1>
+            <p>{{ section['description'] }}</p>
+        </div>
+    </div>
+    <mat-list *ngFor="let post of section['postList']; let idx = index" class="sv-web-lv-list" data-aos="flip-up" data-aos-duration="1000">
+        <div class="row" *ngIf="post['isHeader']">
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                <h2> {{ post['name'] }} </h2>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                <h2> {{ post['designation'] }} </h2>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                <h2> {{ post['contactno'] }} </h2>
+            </div>
+        </div>
+        <div class="row" *ngIf="!post['isHeader']">
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                {{ post['name'] }}
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                {{ post['designation'] }}
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                {{ post['contactno'] }}
+            </div>
+        </div>
+        <mat-divider></mat-divider>
+    </mat-list>
+</div>

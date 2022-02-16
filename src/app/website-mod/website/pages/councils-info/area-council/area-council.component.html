@@ -1,1 +1,6 @@
-<p>area-council works!</p>
+<div class="sv-website-bd">
+    <section *ngFor="let section of sectionList; let parentIdx = index">
+        <app-list-view [section]="section" [attachmentObj]="attachmentObj"></app-list-view>
+        <app-photo-text-landing-page [section]="section" [attachmentObj]="attachmentObj"></app-photo-text-landing-page>
+    </section>
+</div>
