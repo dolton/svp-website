@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "name": "Central Council Members",
+      "text": null,
+      "postList": [
+        {
+          "id": 1001,
+          "name": "Central Council",
+          "desc": null,
+          "text": null,
+          "buttonText": null,
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-landingPage"
+        }
+      }
+    },
+    {
+      "name": "Members list",
+      "text": "Central Council Members",
+      "description": "List of all the members of Central Council of Vasai. Get in touch with them for any inquiries if it falls under the perview of Central Council of Vasai.",
+      "postList": [
+        {
+          "id": 1020,
+          "name": "Name",
+          "designation": "Designation",
+          "contactno": "Contact Number",
+          "isHeader": true
+        },
+        {
+          "id": 1002,
+          "name": "Rev. Fr. Thomas D'souza",
+          "designation": "Spiritual Advisor, Nandakhal",
+          "contactno": "8975781277"
+        },
+        {
+          "id": 1003,
+          "name": "Br. Norbert Gonsalves",
+          "designation": "President",
+          "contactno": "9823199920"
+        },
+        {
+          "id": 1004,
+          "name": "Br. Amol Dmello",
+          "designation": "Assistant President",
+          "contactno": "7021050312"
+        },
+        {
+          "id": 1004,
+          "name": "Br. Suresh Harpale",
+          "designation": "Assistant President",
+          "contactno": "9823710821"
+        },
+        {
+          "id": 1005,
+          "name": "Br. Selvin Dcunha",
+          "designation": "Treasurer",
+          "contactno": "9045927789"
+        },
+        {
+          "id": 1006,
+          "name": "Sr. Dorethy Furtardo",
+          "designation": "Secretary",
+          "contactno": "9167605751"
+        },
+        {
+          "id": 1007,
+          "name": "Br. Morgan Dmello",
+          "designation": "Aggregation and Twinning Officer",
+          "contactno": "9823039241"
+        },
+        {
+          "id": 1008,
+          "name": "Br. Dolton D'silva",
+          "designation": "Youth Representative",
+          "contactno": "9175083847"
+        },
+        {
+          "id": 1009,
+          "name": "Sr. Sangeeta Dmello",
+          "designation": "Women Representative (January 2021 onwards)",
+          "contactno": "9767219236"
+        },
+        {
+          "id": 1010,
+          "name": "Sr. Julie Correia",
+          "designation": "Women Representative (January 2021 onwards)",
+          "contactno": ""
+        },
+        {
+          "id": 1011,
+          "name": "Br. Leslie D'silva",
+          "designation": "President (SVAC)",
+          "contactno": "8080812732"
+        },
+        {
+          "id": 1012,
+          "name": "Br. John Figer",
+          "designation": "President (NVAC)",
+          "contactno": "9970254204"
+        },
+        {
+          "id": 1013,
+          "name": "Br. Laku Kantela",
+          "designation": "President (MVAC)",
+          "contactno": "9890041326"
+        },
+        {
+          "id": 1014,
+          "name": "Br. Alfred Ropaso",
+          "designation": "President (EVAC)",
+          "contactno": "8767368261"
+        },
+        {
+          "id": 1015,
+          "name": "Br. James Dabre",
+          "designation": "Twinning Officer (NCI), Auditor WIRCC",
+          "contactno": "9975711016"
+        },
+        {
+          "id": 1016,
+          "name": "Br. Alex Gonsalves",
+          "designation": "Auditor WIRCC, MVAC Volunteer",
+          "contactno": "8087436241"
+        },
+        {
+          "id": 1017,
+          "name": "Br. Sydney Moraes",
+          "designation": "WIRCC Mission Volunteer",
+          "contactno": "9604385985"
+        },
+        {
+          "id": 1018,
+          "name": "Sr. Emma Lopes",
+          "designation": "Women Representative WIRCC",
+          "contactno": "9869249245"
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "list-view"
+        }
+      }
+    }
+  ],
+  "attachmentData": {
+    "1001": {
+      "path": "../../../../assets/images/organization/get-involved/give-time.jpg"
+    }
+  }
+}

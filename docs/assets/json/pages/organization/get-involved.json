@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "name": "get-involved-landing",
+      "text": null,
+      "postList": [
+        {
+          "id": 1001,
+          "name": "Get Involved",
+          "desc": null,
+          "text": null,
+          "buttonText": null,
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-landingPage"
+        }
+      }
+    },
+    {
+      "name": "give-time-or-skills",
+      "text": null,
+      "postList": [
+        {
+          "id": 1002,
+          "name": "Give you time or skills",
+          "desc": "We're committed to helping combat poverty and tackling isolation, giving those in need in society a chance at living a happier life. There are many ways you can get involved by giving your time or skills. You can become a member of the society. Your local SVP group will identify opportunities in your local area to help you get the most out of your experience. You can also volunteer with the SVP. We have a wide number of opportunities for voluntary work and welcome your time, skills and enthusiasm.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-leftPhoto"
+        }
+      }
+    },
+    {
+      "name": "become-a-member",
+      "text": null,
+      "postList": [
+        {
+          "id": 1003,
+          "name": "Become a member",
+          "desc": "The SVP relies on the support of its volunteers. More members are needed to ensure that its work continues to grow and flourish. Giving your time not only benefits those that the SVP supports, but will also bring you great joy. By becoming an SVP member you can make a real difference to the lives of those near you who are suffering. Membership is open to anyone. We need volunteers who are, above all, caring and compassionate, who are good listeners, able to keep confidences, and who are respectful and non-judgemental of others. Every member works as part of a team so they don’t have to cope on their own or deal with anything they can’t manage.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-rightPhoto"
+        }
+      }
+    },
+    {
+      "name": "involve-young-people",
+      "text": null,
+      "postList": [
+        {
+          "id": 1004,
+          "name": "Involve young people",
+          "desc": "We believe that young people can use their voices to make a difference in their communities. It might sound like a cliché, but being involved with the SVP really makes you realise how much you have to be happy about in your own life. By engaging in charity, young members use their abilities and ideas to get involved in causes they care about and make a positive change in their parishes. Through voluntary work, Youth SVP members not only make a positive difference, but learn new skills, build lasting friendships and develop their faith which is why we encourage young people to join and experience the work of the society.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-leftPhoto"
+        }
+      }
+    },
+    {
+      "name": "involve-your-parish",
+      "text": null,
+      "postList": [
+        {
+          "id": 1005,
+          "name": "Involve your parish",
+          "desc": "Is there an SVP group in your parish? If there isn't, maybe you could discuss starting one with us. We'll be happy to work with you to set everything up, attract members and guide and train them. Perhaps if you live in a prosperous area you might feel there isn't work for the Society to do locally. However, even in well-to-do places, there can be hidden poverty, unseen behind closed doors. There may also be lonely and isolated people who can go for weeks without talking to another living soul. And if there are any hospitals or care homes locally, there will be numerous people who currently have no visitors.",
+          "text": null,
+          "buttonText": "",
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-rightPhoto"
+        }
+      }
+    }
+  ],
+  "attachmentData": {
+    "1001": {
+      "path": "../../../../assets/images/organization/get-involved/involve-parish.jpg"
+    },
+    "1002": {
+      "path": "../../../../assets/images/organization/get-involved/give-time.jpg"
+    },
+    "1003": {
+      "path": "../../../../assets/images/organization/get-involved/become-member.jpg"
+    },
+    "1004": {
+      "path": "../../../../assets/images/organization/founder/in-his-youth.jpg"
+    },
+    "1005": {
+      "path": "../../../../assets/images/organization/get-involved/helping-hands.jpg"
+    }
+  }
+}
