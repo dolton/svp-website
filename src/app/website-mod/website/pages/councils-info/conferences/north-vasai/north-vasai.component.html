@@ -1,1 +1,6 @@
-<p>north-vasai works!</p>
+<div class="sv-website-bd">
+    <section *ngFor="let section of sectionList; let parentIdx = index" [class.odd]="(parentIdx % 2) != 0">
+        <app-cards [section]="section" [attachmentObj]="attachmentObj"></app-cards>
+        <app-photo-text-landing-page [section]="section" [attachmentObj]="attachmentObj"></app-photo-text-landing-page>
+    </section>
+</div>

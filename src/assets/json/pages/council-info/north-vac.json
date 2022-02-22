@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "name": "North Vasai Conferences",
+      "text": null,
+      "postList": [
+        {
+          "id": 1001,
+          "name": "North Vasai Conferences",
+          "desc": null,
+          "text": null,
+          "buttonText": null,
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-landingPage"
+        }
+      }
+    },
+    {
+      "name": "",
+      "text": null,
+      "postList": [
+        {
+          "id": 1002,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Bhuigaon conference is based in the bhuigaon village which is located in vasai virar. If there are any issues or queries or requests from the bhuigaon area, please get in touch with the members.",
+          "header": "Holy Family Church",
+          "sub-header": "Bhuigaon Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. James Dabre",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 7506704895",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1003,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Nirmal conference is based in the nirmal village which is located in vasai virar. If there are any issues or queries or requests from the nirmal area, please get in touch with the members.",
+          "header": "Holy Cross Church",
+          "sub-header": "Nirmal Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Lawrence Dodti",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 8149970009",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1004,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Mardes conference is based in the mardes village which is located in vasai virar. If there are any issues or queries or requests from the mardes area, please get in touch with the members.",
+          "header": "Velankanni Mata Church",
+          "sub-header": "Mardes Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Augustine Fernandes",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9028726645",
+              "buttonUrl": null
+            }
+          ]
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "cards"
+        }
+      }
+    },
+    {
+      "name": "",
+      "text": null,
+      "postList": [
+        {
+          "id": 1005,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Gass conference is based in the gass village which is located in vasai virar. If there are any issues or queries or requests from the gass area, please get in touch with the members.",
+          "header": "St Gonsalo Garcia Church",
+          "sub-header": "Gass Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Milton Pen",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9503271507",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1006,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Gomes Ali conference is based in the gomes ali village which is located in vasai virar. If there are any issues or queries or requests from the gomes ali area, please get in touch with the members.",
+          "header": "Holy Trinity Church",
+          "sub-header": "Gomes Ali Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Louis Gomes",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 8850408972",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1007,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Bolinj conference is based in the bolinj village which is located in vasai virar. If there are any issues or queries or requests from the bolinj area, please get in touch with the members.",
+          "header": "Christ The King Church",
+          "sub-header": "Bolinj Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Alex Mendis",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9969456200",
+              "buttonUrl": null
+            }
+          ]
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "cards"
+        }
+      }
+    },
+    {
+      "name": "",
+      "text": null,
+      "postList": [
+        {
+          "id": 1008,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Umrala conference is based in the umrala village which is located in vasai virar. If there are any issues or queries or requests from the umrala area, please get in touch with the members.",
+          "header": "St. Joseph Church",
+          "sub-header": "Umrala Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Sr. Ursula Pegado",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9158654706",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1009,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Nanbhat conference is based in the nanbhat village which is located in vasai virar. If there are any issues or queries or requests from the nanbhat area, please get in touch with the members.",
+          "header": "St. Paul Church",
+          "sub-header": "Nanbhat Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. David Gonsalves",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 8796667978",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1010,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Rajodi conference is based in the rajodi village which is located in vasai virar. If there are any issues or queries or requests from the rajodi area, please get in touch with the members.",
+          "header": "Our Lady Of Health Church",
+          "sub-header": "Rajodi Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Selvin Rosario",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9049826609",
+              "buttonUrl": null
+            }
+          ]
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "cards"
+        }
+      }
+    },
+    {
+      "name": "",
+      "text": null,
+      "postList": [
+        {
+          "id": 1011,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Nandakhal conference is based in the nandakhal village which is located in vasai virar. If there are any issues or queries or requests from the nandakhal area, please get in touch with the members.",
+          "header": "Holy Spirit Church",
+          "sub-header": "Nandakhal Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Sr. Suman D'britto",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9765932129",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1012,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Shirlay conference is based in the shirlay village which is located in vasai virar. If there are any issues or queries or requests from the shirlay area, please get in touch with the members.",
+          "header": "Our Lady of Lourdes Church",
+          "sub-header": "Shirlay Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Dominic Lopes",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 9420807719",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1013,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Agashi conference is based in the agashi village which is located in vasai virar. If there are any issues or queries or requests from the agashi area, please get in touch with the members.",
+          "header": "St. James Church",
+          "sub-header": "Agashi Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Sr. Garci D'souza",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 7756088704",
+              "buttonUrl": null
+            }
+          ]
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "cards"
+        }
+      }
+    },
+    {
+      "name": "",
+      "text": null,
+      "postList": [
+        {
+          "id": 1014,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Jyoti conference is based in the jyoti village which is located in vasai virar. If there are any issues or queries or requests from the jyoti area, please get in touch with the members.",
+          "header": "Jyoti Mata Church",
+          "sub-header": "Jyoti Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Valerian Soares",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 7506944240",
+              "buttonUrl": null
+            }
+          ]
+        },
+        {
+          "id": 1015,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Arnala conference is based in the arnala village which is located in vasai virar. If there are any issues or queries or requests from the arnala area, please get in touch with the members.",
+          "header": "St. Peter's Church",
+          "sub-header": "Arnala Conference",
+          "buttons": [
+            {
+              "buttonText": "President - Br. Brodman Benka",
+              "buttonUrl": null
+            },
+            {
+              "buttonText": "Contact No. - 8830746577",
+              "buttonUrl": null
+            }
+          ]
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "cards"
+        }
+      }
+    }
+  ],
+  "attachmentData": {
+    "1001": {
+      "path": "../../../../assets/images/organization/get-involved/give-time.jpg"
+    },
+    "1002": {
+      "path": "../../../../assets/images/council/conferences/nvac/bhuigaon.jpg"
+    },
+    "1003": {
+      "path": "../../../../assets/images/council/conferences/nvac/nirmal.jpg"
+    },
+    "1004": {
+      "path": "../../../../assets/images/council/conferences/nvac/mardes.jpg"
+    },
+    "1005": {
+      "path": "../../../../assets/images/council/conferences/nvac/gass.jpg"
+    },
+    "1006": {
+      "path": "../../../../assets/images/council/conferences/nvac/gomesali.jpg"
+    },
+    "1007": {
+      "path": "../../../../assets/images/council/conferences/svac/merces.jpg"
+    },
+    "1008": {
+      "path": "../../../../assets/images/council/conferences/nvac/umrala.jpg"
+    },
+    "1009": {
+      "path": "../../../../assets/images/council/conferences/nvac/nanbhat.jpg"
+    },
+    "1010": {
+      "path": "../../../../assets/images/council/conferences/nvac/rajodi.jpg"
+    },
+    "1011": {
+      "path": "../../../../assets/images/council/conferences/nvac/nandakhal.jpg"
+    },
+    "1012": {
+      "path": "../../../../assets/images/council/conferences/nvac/shirlay.jpg"
+    },
+    "1013": {
+      "path": "../../../../assets/images/council/conferences/nvac/agashi.jpg"
+    },
+    "1014": {
+      "path": "../../../../assets/images/council/conferences/nvac/jyoti.jpg"
+    },
+    "1015": {
+      "path": "../../../../assets/images/council/conferences/nvac/arnala.jpg"
+    }
+
+  }
+}
