@@ -1,0 +1,35 @@
+.sv-web-sec {
+  padding: 1rem 5rem 7rem;
+}
+
+.sv-web-sec .jumbotron {
+  padding: 2rem;
+  text-align: center;
+}
+
+.sv-web-tl-card {
+  box-shadow: 3px 3px 15px 3px #6565656b;
+}
+
+.sv-cardswid-act-btn {
+  color: #007bff;
+  margin-left: 1.5rem;
+}
+
+.sv-cardswid-act-btn:hover {
+  color: #0056b3;
+  cursor: pointer;
+}
+
+.sv-web-tl-card-content {
+  padding: 15px;
+}
+
+.sv-web-tl-card-content-img {
+  width: 100%;
+  margin: auto !important;
+}
+
+.sv-web-tl-card-chips {
+  padding-top: 10px;
+}

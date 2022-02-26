@@ -1,0 +1,47 @@
+<div *ngIf="section['widget'].type.itemValue == 'timeline'" class="sv-web-sec">
+    <div class="jumbotron jumbotron-fluid" data-aos="zoom-in-right" data-aos-duration="1000">
+        <div class="container">
+            <h1 class="display-4">{{ section['text'] }}</h1>
+            <p>{{ section['description'] }}</p>
+        </div>
+    </div>
+    <timeline>
+        <timeline-item *ngFor="let post of section['postList']; let parentIdx = index">
+            <mat-card class="sv-web-tl-card">
+                <mat-card-header data-aos="fade-left" data-aos-duration="1000">
+                    <mat-card-title>{{ post['header'] }}</mat-card-title>
+                    <mat-card-subtitle>{{ post['desc'] }}
+                        
+                    </mat-card-subtitle>
+
+                    <mat-divider [vertical]="true"></mat-divider>
+                    <mat-list role="list">
+                        <mat-list-item role="listitem">
+                            <h2>{{ post['eventDate'].month }}</h2>
+                        </mat-list-item>
+                        <mat-list-item role="listitem">
+                            <h1>{{ post['eventDate'].day }}</h1>
+                        </mat-list-item>
+                        <mat-list-item role="listitem">
+                            <h3>{{ post['eventDate'].year }}</h3>
+                        </mat-list-item>
+                    </mat-list>
+                </mat-card-header>
+                <mat-card-content>
+                    <div class="row sv-web-tl-card-content">
+                        <div class="col-lg-6" *ngFor="let attachment of post['attachments']">
+                            <img mat-card-image
+                                [src]="attachmentObj[attachment.attId] && attachmentObj[attachment.attId].path"
+                                class="sv-web-tl-card-content-img" data-aos="fade-up" data-aos-duration="1000">
+                        </div>
+                    </div>
+                </mat-card-content>
+                <mat-card-actions data-aos="flip-up" data-aos-duration="1000">
+                    <label *ngFor="let button of post['buttons']" class="sv-cardswid-act-btn">{{ button['buttonText']
+                        }}</label>
+                </mat-card-actions>
+            </mat-card>
+        </timeline-item>
+    </timeline>
+
+</div>

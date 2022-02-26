@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { CentralCouncilNewsComponent } from './central-council-news.component';
+import { EventsTimelineComponent } from './events-timeline.component';
 
-describe('CentralCouncilNewsComponent', () => {
-  let component: CentralCouncilNewsComponent;
-  let fixture: ComponentFixture<CentralCouncilNewsComponent>;
+describe('EventsTimelineComponent', () => {
+  let component: EventsTimelineComponent;
+  let fixture: ComponentFixture<EventsTimelineComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ CentralCouncilNewsComponent ]
+      declarations: [ EventsTimelineComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(CentralCouncilNewsComponent);
+    fixture = TestBed.createComponent(EventsTimelineComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

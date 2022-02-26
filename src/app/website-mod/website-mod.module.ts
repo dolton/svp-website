@@ -5,6 +5,7 @@ import { MaterialModModule } from '../material-mod/material-mod.module';
 
 import { QuillModule } from 'ngx-quill';
 import { NgImageSliderModule } from 'ng-image-slider';
+import { TimelineModule } from "angular2-timeline";
 
 import { WebsiteComponent } from './website/website.component';
 import { CarousalComponent } from './web-widgets/carousal/carousal.component';
@@ -41,15 +42,13 @@ import { SouthVasaiComponent } from './website/pages/councils-info/conferences/s
 import { EastVasaiComponent } from './website/pages/councils-info/conferences/east-vasai/east-vasai.component';
 import { MissionVasaiComponent } from './website/pages/councils-info/conferences/mission-vasai/mission-vasai.component';
 import { NewsEventsComponent } from './website/pages/news-events/news-events.component';
-import { CentralCouncilNewsComponent } from './website/pages/news-events/central-council-news/central-council-news.component';
-import { NationalCouncilComponent } from './website/pages/news-events/national-council/national-council.component';
-import { InternationalCouncilComponent } from './website/pages/news-events/international-council/international-council.component';
 import { ReachoutComponent } from './website/pages/news-events/reachout/reachout.component';
 import { CatalogueComponent } from './website/pages/catalogue/catalogue.component';
 import { FormsComponent } from './website/pages/catalogue/forms/forms.component';
 import { ReportsComponent } from './website/pages/catalogue/reports/reports.component';
 import { GetInvolvedComponent } from './website/pages/organization/get-involved/get-involved.component';
 import { ListViewComponent } from './web-widgets/list-view/list-view.component';
+import { EventsTimelineComponent } from './website/pages/news-events/events-timeline/events-timeline.component';
 
 
 @NgModule({
@@ -88,22 +87,21 @@ import { ListViewComponent } from './web-widgets/list-view/list-view.component';
     EastVasaiComponent,
     MissionVasaiComponent,
     NewsEventsComponent,
-    CentralCouncilNewsComponent,
-    NationalCouncilComponent,
-    InternationalCouncilComponent,
     ReachoutComponent,
     CatalogueComponent,
     FormsComponent,
     ReportsComponent,
     GetInvolvedComponent,
-    ListViewComponent
+    ListViewComponent,
+    EventsTimelineComponent
   ],
   imports: [
     CommonModule,
     MaterialModModule,
     QuillModule.forRoot(),
     NgImageSliderModule,
-    WebsiteRouting 
+    TimelineModule,
+    WebsiteRouting
   ]
 })
 export class WebsiteModModule { }

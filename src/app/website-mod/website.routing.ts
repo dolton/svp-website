@@ -15,14 +15,11 @@ import { NorthVasaiComponent } from './website/pages/councils-info/conferences/n
 import { SouthVasaiComponent } from './website/pages/councils-info/conferences/south-vasai/south-vasai.component';
 import { EastVasaiComponent } from './website/pages/councils-info/conferences/east-vasai/east-vasai.component';
 import { MissionVasaiComponent } from './website/pages/councils-info/conferences/mission-vasai/mission-vasai.component';
-import { NewsEventsComponent } from './website/pages/news-events/news-events.component';
-import { CentralCouncilNewsComponent } from './website/pages/news-events/central-council-news/central-council-news.component';
-import { NationalCouncilComponent } from './website/pages/news-events/national-council/national-council.component';
-import { InternationalCouncilComponent } from './website/pages/news-events/international-council/international-council.component';
 import { ReachoutComponent } from './website/pages/news-events/reachout/reachout.component';
 import { FormsComponent } from './website/pages/catalogue/forms/forms.component';
 import { ReportsComponent } from './website/pages/catalogue/reports/reports.component';
 import { GetInvolvedComponent } from './website/pages/organization/get-involved/get-involved.component';
+import { EventsTimelineComponent } from './website/pages/news-events/events-timeline/events-timeline.component';
 
 export const routes: Routes = [
     { path: '', redirectTo: 'home', pathMatch: 'full' },
@@ -41,9 +38,7 @@ export const routes: Routes = [
     { path: 'council/conf/south', component: SouthVasaiComponent },
     { path: 'council/conf/east', component: EastVasaiComponent },
     { path: 'council/conf/mission', component: MissionVasaiComponent },
-    { path: 'news/central', component: CentralCouncilNewsComponent },
-    { path: 'news/national', component: NationalCouncilComponent },
-    { path: 'news/international', component: InternationalCouncilComponent },
+    { path: 'news/timeline', component: EventsTimelineComponent },
     { path: 'news/bulletin', component: ReachoutComponent },
     { path: 'catalogue/forms', component: FormsComponent },
     { path: 'catalogue/reports', component: ReportsComponent }
