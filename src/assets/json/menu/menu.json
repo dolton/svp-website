@@ -143,22 +143,8 @@
     "icon": null,
     "childrenList": [
       {
-        "name": "Central Council",
-        "route": "news/central",
-        "currentState": "Active",
-        "icon": null,
-        "childrenList": []
-      },
-      {
-        "name": "National Council",
-        "route": "news/national",
-        "currentState": "Active",
-        "icon": null,
-        "childrenList": []
-      },
-      {
-        "name": "International",
-        "route": "news/international",
+        "name": "News/Events",
+        "route": "news/timeline",
         "currentState": "Active",
         "icon": null,
         "childrenList": []

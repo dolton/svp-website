@@ -1,0 +1,137 @@
+{
+  "data": [
+    {
+      "name": "News and Events",
+      "text": null,
+      "postList": [
+        {
+          "id": 1001,
+          "name": "Events Timeline",
+          "desc": null,
+          "text": null,
+          "buttonText": null,
+          "buttonUrl": null
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "photoText-landingPage"
+        }
+      }
+    },
+    {
+      "name": "",
+      "text": "News and Events from conferences under vasai central council",
+      "description": "Timeline for all the events and news that happenned in the last 3 months in various conferences.",
+      "postList": [
+        {
+          "id": 1002,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Manikpur conference is based in the manikpur village which is located in vasai west. If there are any issues or queries or requests from the manikpur area, please get in touch with the members.",
+          "header": "Accounting Seminar",
+          "sub-header": "Naigaon East Conference",
+          "details" : "",
+          "eventDate": {
+            "day": "23",
+            "month": "Mar",
+            "year": "2022"
+          },
+          "buttons": [
+            {
+              "buttonText": "Read More",
+              "buttonUrl": null
+            }
+          ],
+          "attachments": [
+            {
+              "attId": "1002"
+            },
+            {
+              "attId": "1003"
+            }
+          ]
+        },
+        {
+          "id": 1003,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Manikpur conference is based in the manikpur village which is located in vasai west. If there are any issues or queries or requests from the manikpur area, please get in touch with the members.",
+          "header": "Accounting Seminar",
+          "sub-header": "Naigaon East Conference",
+          "eventDate": {
+            "day": "18",
+            "month": "Aug",
+            "year": "2021"
+          },
+          "buttons": [
+            {
+              "buttonText": "Read More",
+              "buttonUrl": null
+            }
+          ],
+          "attachments": []
+        },
+        {
+          "id": 1004,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Manikpur conference is based in the manikpur village which is located in vasai west. If there are any issues or queries or requests from the manikpur area, please get in touch with the members.",
+          "header": "Accounting Seminar",
+          "sub-header": "Naigaon East Conference",
+          "eventDate": {
+            "day": "12",
+            "month": "Jul",
+            "year": "2021"
+          },
+          "buttons": [
+            {
+              "buttonText": "Read More",
+              "buttonUrl": null
+            }
+          ],
+          "attachments": []
+        },
+        {
+          "id": 1005,
+          "name": "",
+          "desc": "Society of Saint Vincent de Paul, Manikpur conference is based in the manikpur village which is located in vasai west. If there are any issues or queries or requests from the manikpur area, please get in touch with the members.",
+          "header": "Accounting Seminar",
+          "sub-header": "Naigaon East Conference",
+          "eventDate": {
+            "day": "28",
+            "month": "Apr",
+            "year": "2021"
+          },
+          "buttons": [
+            {
+              "buttonText": "Read More",
+              "buttonUrl": null
+            }
+          ],
+          "attachments": [
+            {
+              "attId": "1002"
+            },
+            {
+              "attId": "1003"
+            }
+          ]
+        }
+      ],
+      "widget": {
+        "type": {
+          "itemValue": "timeline"
+        }
+      }
+    }
+  ],
+  "attachmentData": {
+    "1001": {
+      "path": "../../../../assets/images/organization/get-involved/give-time.jpg"
+    },
+    "1002": {
+      "path": "../../../../assets/images/organization/get-involved/give-time.jpg"
+    },
+    "1003": {
+      "path": "../../../../assets/images/organization/get-involved/give-time.jpg"
+    }
+  }
+}
